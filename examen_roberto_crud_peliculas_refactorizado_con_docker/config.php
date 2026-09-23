@@ -5,7 +5,7 @@
  * @package CrudPeliculas
  */
 
-$host = "localhost";
+$host = "host.docker.internal";
 $dbname = "cine";
 $user = "root";
 $pass = "1234";
